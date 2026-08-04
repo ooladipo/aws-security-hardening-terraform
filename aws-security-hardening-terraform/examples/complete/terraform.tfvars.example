@@ -1,0 +1,10 @@
+# Copy to terraform.tfvars and adjust before running `terraform plan`.
+
+aws_region   = "eu-central-1"
+environment  = "prod"
+project_name = "acme-corp"
+
+log_retention_days  = 365
+enable_guardduty    = true
+enable_security_hub = true
+enable_config       = true
