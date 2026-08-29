@@ -186,8 +186,3 @@ MIT — see [LICENSE](./LICENSE).
 
 ---
 
-Part of a four-week hands-on security engineering portfolio build:
-[Profile README](https://github.com/ooladipo) ·
-Week 2: SAST Pipeline Integration (next) ·
-Week 3: Compliance Automation Scripts ·
-Week 4: Detection Engineering Lab
